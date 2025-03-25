@@ -34,6 +34,7 @@ HOW TO USE THE PROJECT
 
 
 TEAM CREDIT
+
 I started work on this Project with an incredible team of amazing women, even though now I am working on it alone,
 they put in a lot of work to bring it to life as well. 
 VISHWA PATEL
