@@ -1,6 +1,6 @@
 # DaycareProject
 
-PROJECT DESCRIPTION
+## Project Description
 
 This is a project created with the use of Flutter, Dart and Firebase with inspiration from a client for connecting daycare providers to parents. 
 This idea originated from the concept of closing the gap to bridge the difficulties between finding a licensed daycare provider based on your location
@@ -18,7 +18,7 @@ This way we are making things easier for the Daycare Provider and Parent.
 
 
 
-HOW TO INSTALL AND RUN THE PROJECT
+## HOW TO INSTALL AND RUN THE PROJECT
 ...
 
 
@@ -26,14 +26,14 @@ HOW TO INSTALL AND RUN THE PROJECT
 
 
 
-HOW TO USE THE PROJECT
+## HOW TO USE THE PROJECT
 ...
 
 
 
 
 
-TEAM CREDIT
+## TEAM CREDIT
 
 I started work on this Project with an incredible team of amazing women, even though now I am working on it alone,
 they put in a lot of work to bring it to life as well. 
